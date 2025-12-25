@@ -41,7 +41,6 @@
 			<string>/Applications/Company Portal.app</string>
 			<key>Installomator</key>
 			<array>
-			<array>
 				<dict>
 					<key>DisplayName</key>
 					<string>Microsoft 365 Copilot</string>
