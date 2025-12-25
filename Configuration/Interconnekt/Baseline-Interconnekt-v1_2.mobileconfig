@@ -308,7 +308,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/CompanyPortal.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/01-installCompanyPortal.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/01-installCompanyPortal.zsh</string>
 					<key>Subtitle</key>
 					<string>Installing the Micorosft Intune Company Portal app</string>
 				</dict>
@@ -318,7 +318,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/03-DeviceRename.sh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/03-DeviceRename.sh</string>
 					<key>Subtitle</key>
 					<string>Renaming your device</string>
 				</dict>
@@ -328,7 +328,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/04-dockv5.sh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/04-dockv5.sh</string>
 					<key>Subtitle</key>
 					<string>Configuring your Dock</string>
 				</dict>
@@ -338,7 +338,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Interconnekt_Logo.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/05-InstallNinjaOneAgent.sh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/05-InstallNinjaOneAgent.sh</string>
 					<key>Subtitle</key>
 					<string>Onboarding your device to Interconnekt's Remote Support app</string>
 				</dict>
@@ -348,7 +348,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Defender.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/06-installDefender.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/06-installDefender.zsh</string>
 					<key>Subtitle</key>
 					<string>Installing Microsoft Defender and onboarding your device to Microsoft Defender for Business</string>
 				</dict>
@@ -360,7 +360,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/30-ShowAllFilenameExtensions.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/30-ShowAllFilenameExtensions.zsh</string>
 					<key>Subtitle</key>
 					<string>Turning on Filename Extensions in Finder</string>
 				</dict>
@@ -370,7 +370,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/31-EnableOneDriveFinderSync.sh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/31-EnableOneDriveFinderSync.sh</string>
 					<key>Subtitle</key>
 					<string>Ensuring OneDrive Finder integration is enabled</string>
 				</dict>
@@ -382,7 +382,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/40-SecureUsersHomeFolders.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/40-SecureUsersHomeFolders.zsh</string>
 					<key>Subtitle</key>
 					<string>Securing your Home Folder</string>
 				</dict>
@@ -392,7 +392,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/41-EnableAppleMobileFileIntegrityAMFI.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/41-EnableAppleMobileFileIntegrityAMFI.zsh</string>
 					<key>Subtitle</key>
 					<string>Turning on AMFI Setting as per CIS Recommendations</string>
 				</dict>
@@ -402,7 +402,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/42-enableScreenSharing.sh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/42-enableScreenSharing.sh</string>
 					<key>Subtitle</key>
 					<string>Enables the in-built macOS Screen Sharing functionality</string>
 				</dict>
@@ -412,7 +412,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/70-ControlledAuditRecords.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/70-ControlledAuditRecords.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -422,7 +422,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/71-DeleteGuestHomeFolder.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/71-DeleteGuestHomeFolder.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -432,7 +432,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/72-DisableBluetoothSharing.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/72-DisableBluetoothSharing.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -442,7 +442,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/73-DisableDVDOrCDSharing.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/73-DisableDVDOrCDSharing.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -452,7 +452,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/74-DisableFileSharing.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/74-DisableFileSharing.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -462,7 +462,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/75-DisableGuestAccessToSharedFolders.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/75-DisableGuestAccessToSharedFolders.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -472,7 +472,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/76-DisableHTTPServer.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/76-DisableHTTPServer.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -482,7 +482,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/77-DisableInternetSharing.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/77-DisableInternetSharing.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -492,7 +492,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/78-DisableNFSServer.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/78-DisableNFSServer.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -502,7 +502,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/79-DisablePrinterSharing.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/79-DisablePrinterSharing.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -512,7 +512,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/80-DisableRemoteAppleEvents.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/80-DisableRemoteAppleEvents.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -522,7 +522,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/81-DisableRemoteLogin.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/81-DisableRemoteLogin.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -532,7 +532,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/82-DisableRemoteManagement.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/82-DisableRemoteManagement.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -542,7 +542,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/82-DisableRemoteManagement.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/82-DisableRemoteManagement.zsh</string>
 					<key>Subtitle</key>
 					<string>Recommended setting under CIS / NIST Framework Guidelines</string>
 				</dict>
@@ -552,7 +552,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/94-AdministratorAccountCannotLoginToAnotherUsersActiveAndLockedSession.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/94-AdministratorAccountCannotLoginToAnotherUsersActiveAndLockedSession.zsh</string>
 					<key>Subtitle</key>
 					<string>Protects the user's account from being access by an Administrator account</string>
 				</dict>
@@ -562,7 +562,7 @@
 					<key>Icon</key>
 					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/95-AdministratorPasswordToSystemWidePreferences.zsh</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/scripts/95-AdministratorPasswordToSystemWidePreferences.zsh</string>
 					<key>Subtitle</key>
 					<string>Requires an Administrator to change System-wide Preferences</string>
 				</dict>
