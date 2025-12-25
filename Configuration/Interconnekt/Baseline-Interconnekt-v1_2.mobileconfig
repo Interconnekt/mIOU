@@ -46,6 +46,8 @@
 					<string>Microsoft 365 Copilot</string>
 					<key>Label</key>
 					<string>microsoft365copilot</string>
+					<key>Subtitle</key>
+					<string>AI-powered assistant integrated with Microsoft 365 apps to help generate content, summarize data, and automate tasks.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -90,14 +92,12 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Microsoft Windows App</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/windowsapp.png</string>
 					<key>Label</key>
 					<string>microsoftwindowsapp</string>
-				</dict>
-				<dict>
-					<key>DisplayName</key>
-					<string>Affinity</string>
-					<key>Label</key>
-					<string>affinityapp</string>
+					<key>Subtitle</key>
+					<string>Enables remote access to Windows desktops and apps from macOS, providing a seamless virtual experience.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -108,12 +108,6 @@
 					<string>applesfsymbols</string>
 					<key>Subtitle</key>
 					<string>Apple Native Symbols Icon Set</string>
-				</dict>
-				<dict>
-					<key>DisplayName</key>
-					<string>Apparency</string>
-					<key>Label</key>
-					<string>apparency</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -128,8 +122,12 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Foxit PDF Editor</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/foxit.png</string>
 					<key>Label</key>
 					<string>foxitpdfeditor</string>
+					<key>Subtitle</key>
+					<string>A lightweight PDF tool for creating, editing, and annotating PDF documents with advanced collaboration features.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -174,14 +172,22 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Postman</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/postman.png</string>
 					<key>Label</key>
 					<string>postman</string>
+					<key>Subtitle</key>
+					<string>API development platform for building, testing, and managing APIs efficiently.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
 					<string>PPPC Utility</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/pppcutility.png</string>
 					<key>Label</key>
 					<string>jamfpppcutility</string>
+					<key>Subtitle</key>
+					<string>Tool for configuring Privacy Preferences Policy Control profiles on macOS to manage app permissions.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -196,8 +202,12 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Santa</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/santa.png</string>
 					<key>Label</key>
 					<string>nps-santa</string>
+					<key>Subtitle</key>
+					<string>macOS security tool that enforces application whitelisting and blacklisting for better endpoint protection.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -232,8 +242,12 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Vivi</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/vivi.png</string>
 					<key>Label</key>
 					<string>vivi</string>
+					<key>Subtitle</key>
+					<string>Wireless presentation and screen-sharing solution designed for classrooms and meeting spaces.</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
@@ -258,10 +272,14 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Whimsical</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/whimsical.png</string>
 					<key>Label</key>
 					<string>whimsical</string>
+					<key>Subtitle</key>
+					<string>Visual collaboration platform for creating flowcharts, wireframes, and mind maps quickly.</string>
 				</dict>
-			</array>				
+			</array>
 			<key>InstallomatorSwiftDialogIntegration</key>
 			<true/>
 			<key>PayloadDisplayName</key>
