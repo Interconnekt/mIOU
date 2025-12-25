@@ -7,7 +7,7 @@
 		<dict>
 			<key>DialogFailureOptions</key>
 			<string>--titlefont "size=25" \
---bannerimage "https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/Banner/Banner.png" \
+--bannerimage "https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/Banner/Banner.png" \
 --bannerheight 130 \
 --bannertitle "Onboarding Completed, but with Errors" \
 --messagefont "size=14" \
@@ -17,10 +17,10 @@
 --width 1050</string>
 			<key>DialogListOptions</key>
 			<string>--liststyle compact \
---bannerimage "https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/Banner/Banner.png" \
+--bannerimage "https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/Banner/Banner.png" \
 --bannerheight 130 \
 --titlefont "size=25" \
---iconsize 100 --icon "https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Interconnekt_Logo.png" \
+--iconsize 100 --icon "https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/Logo/Interconnekt_Logo.png" \
 --bannertitle "Welcome to the macOS Intune Onboarding Utility" \
 --messagefont "size=14" \
 --message "Please wait whilst we configure your device. Feel free to step away, this could take 30 minutes or more." \
@@ -29,7 +29,7 @@
 --height 800</string>
 			<key>DialogSuccessOptions</key>
 			<string>--titlefont "size=25" \
---bannerimage "https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/Banner/Banner.png" \
+--bannerimage "https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/Banner/Banner.png" \
 --bannerheight 130 \
 --bannertitle "Onboarding Complete!" \
 --messagefont "size=14" \
@@ -52,7 +52,7 @@
 					<key>DisplayName</key>
 					<string>Microsoft Azure Storage Explorer</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/microsoft-azure-storage-explorer-icon.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/microsoft-azure-storage-explorer-icon.png</string>
 					<key>Label</key>
 					<string>microsoftazurestorageexplorer</string>
 					<key>Subtitle</key>
@@ -62,7 +62,7 @@
 					<key>DisplayName</key>
 					<string>Microsoft Edge</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Edge.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Edge.png</string>
 					<key>Label</key>
 					<string>microsoftedge</string>
 					<key>Subtitle</key>
@@ -72,7 +72,7 @@
 					<key>DisplayName</key>
 					<string>Microsoft Office</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/office.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/office.png</string>
 					<key>Label</key>
 					<string>microsoftoffice365</string>
 					<key>Subtitle</key>
@@ -82,7 +82,7 @@
 					<key>DisplayName</key>
 					<string>Microsoft Visual Studio Code</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/vscode.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/vscode.png</string>
 					<key>Label</key>
 					<string>visualstudiocode</string>
 					<key>Subtitle</key>
@@ -104,7 +104,7 @@
 					<key>DisplayName</key>
 					<string>Apple SF Symbols</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/sf-symbols-beta.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/sf-symbols-beta.png</string>
 					<key>Label</key>
 					<string>applesfsymbols</string>
 					<key>Subtitle</key>
@@ -120,7 +120,7 @@
 					<key>DisplayName</key>
 					<string>Discord</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/discord.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/discord.png</string>
 					<key>Label</key>
 					<string>discord</string>
 					<key>Subtitle</key>
@@ -136,7 +136,7 @@
 					<key>DisplayName</key>
 					<string>iMazing Profile Editor</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/imazingprofileeditor.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/imazingprofileeditor.png</string>
 					<key>Label</key>
 					<string>imazingprofileeditor</string>
 					<key>Subtitle</key>
@@ -146,7 +146,7 @@
 					<key>DisplayName</key>
 					<string>Keeper</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/keeper.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/keeper.png</string>
 					<key>Label</key>
 					<string>keeperpasswordmanager</string>
 					<key>Subtitle</key>
@@ -156,7 +156,7 @@
 					<key>DisplayName</key>
 					<string>Keka</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/keka.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/keka.png</string>
 					<key>Label</key>
 					<string>keka</string>
 					<key>Subtitle</key>
@@ -166,7 +166,7 @@
 					<key>DisplayName</key>
 					<string>Low Profile</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/lowprofile.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/lowprofile.png</string>
 					<key>Label</key>
 					<string>lowprofile</string>
 					<key>Subtitle</key>
@@ -188,7 +188,7 @@
 					<key>DisplayName</key>
 					<string>Rectangle</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/rectangle.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/rectangle.png</string>
 					<key>Label</key>
 					<string>rectangle</string>
 					<key>Subtitle</key>
@@ -204,7 +204,7 @@
 					<key>DisplayName</key>
 					<string>Slack</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/slack.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/slack.png</string>
 					<key>Label</key>
 					<string>slack</string>
 					<key>Subtitle</key>
@@ -214,7 +214,7 @@
 					<key>DisplayName</key>
 					<string>SnagIt 2025</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/snagit.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/snagit.png</string>
 					<key>Label</key>
 					<string>snagit2025</string>
 					<key>Subtitle</key>
@@ -224,7 +224,7 @@
 					<key>DisplayName</key>
 					<string>Spotify</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Spotify_icon.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Spotify_icon.png</string>
 					<key>Label</key>
 					<string>spotify</string>
 					<key>Subtitle</key>
@@ -240,7 +240,7 @@
 					<key>DisplayName</key>
 					<string>VLC</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/VLC_icon.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/VLC_icon.png</string>
 					<key>Label</key>
 					<string>vlc</string>
 					<key>Subtitle</key>
@@ -250,7 +250,7 @@
 					<key>DisplayName</key>
 					<string>Whatsapp</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/whatsapp.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/whatsapp.png</string>
 					<key>Label</key>
 					<string>whatsapp</string>
 					<key>Subtitle</key>
@@ -289,7 +289,7 @@
 					<key>DisplayName</key>
 					<string>Company Portal</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/CompanyPortal.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/CompanyPortal.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/01-installCompanyPortal.zsh</string>
 					<key>Subtitle</key>
@@ -299,7 +299,7 @@
 					<key>DisplayName</key>
 					<string>Rename Device</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/03-DeviceRename.sh</string>
 					<key>Subtitle</key>
@@ -309,7 +309,7 @@
 					<key>DisplayName</key>
 					<string>Configure Dock</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/04-dockv5.sh</string>
 					<key>Subtitle</key>
@@ -319,7 +319,7 @@
 					<key>DisplayName</key>
 					<string>Interconnekt Remote Support Agent</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Interconnekt_Logo.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Interconnekt_Logo.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/05-InstallNinjaOneAgent.sh</string>
 					<key>Subtitle</key>
@@ -329,7 +329,7 @@
 					<key>DisplayName</key>
 					<string>Microsoft Defender</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Defender.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Defender.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/06-installDefender.zsh</string>
 					<key>Subtitle</key>
@@ -341,7 +341,7 @@
 					<key>DisplayName</key>
 					<string>Show Filename Extensions in Finder</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/30-ShowAllFilenameExtensions.zsh</string>
 					<key>Subtitle</key>
@@ -351,7 +351,7 @@
 					<key>DisplayName</key>
 					<string>Enable OneDrive Finder Integration</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/31-EnableOneDriveFinderSync.sh</string>
 					<key>Subtitle</key>
@@ -363,7 +363,7 @@
 					<key>DisplayName</key>
 					<string>Secure User's Home Folders</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/40-SecureUsersHomeFolders.zsh</string>
 					<key>Subtitle</key>
@@ -373,7 +373,7 @@
 					<key>DisplayName</key>
 					<string>Enable Apple Mobile File Integrity</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/41-EnableAppleMobileFileIntegrityAMFI.zsh</string>
 					<key>Subtitle</key>
@@ -383,7 +383,7 @@
 					<key>DisplayName</key>
 					<string>Enable Screen Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/42-enableScreenSharing.sh</string>
 					<key>Subtitle</key>
@@ -393,7 +393,7 @@
 					<key>DisplayName</key>
 					<string>Script to ensure access to audit records is controlled</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/70-ControlledAuditRecords.zsh</string>
 					<key>Subtitle</key>
@@ -403,7 +403,7 @@
 					<key>DisplayName</key>
 					<string>Delete Guest Home Folder</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/71-DeleteGuestHomeFolder.zsh</string>
 					<key>Subtitle</key>
@@ -413,7 +413,7 @@
 					<key>DisplayName</key>
 					<string>Disable Bluetooth Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/72-DisableBluetoothSharing.zsh</string>
 					<key>Subtitle</key>
@@ -423,7 +423,7 @@
 					<key>DisplayName</key>
 					<string>Disable DVD or CD Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/73-DisableDVDOrCDSharing.zsh</string>
 					<key>Subtitle</key>
@@ -433,7 +433,7 @@
 					<key>DisplayName</key>
 					<string>Disable File Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/74-DisableFileSharing.zsh</string>
 					<key>Subtitle</key>
@@ -443,7 +443,7 @@
 					<key>DisplayName</key>
 					<string>Disable Guest Access to Shared Folders</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/75-DisableGuestAccessToSharedFolders.zsh</string>
 					<key>Subtitle</key>
@@ -453,7 +453,7 @@
 					<key>DisplayName</key>
 					<string>Disable HTTP Server</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/76-DisableHTTPServer.zsh</string>
 					<key>Subtitle</key>
@@ -463,7 +463,7 @@
 					<key>DisplayName</key>
 					<string>Disable Internet Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/77-DisableInternetSharing.zsh</string>
 					<key>Subtitle</key>
@@ -473,7 +473,7 @@
 					<key>DisplayName</key>
 					<string>Disable NFS Server</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/78-DisableNFSServer.zsh</string>
 					<key>Subtitle</key>
@@ -483,7 +483,7 @@
 					<key>DisplayName</key>
 					<string>Disable Printer Sharing</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/79-DisablePrinterSharing.zsh</string>
 					<key>Subtitle</key>
@@ -493,7 +493,7 @@
 					<key>DisplayName</key>
 					<string>Disable Remote Apple Events</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/80-DisableRemoteAppleEvents.zsh</string>
 					<key>Subtitle</key>
@@ -503,7 +503,7 @@
 					<key>DisplayName</key>
 					<string>Disable Remote Login</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/81-DisableRemoteLogin.zsh</string>
 					<key>Subtitle</key>
@@ -513,7 +513,7 @@
 					<key>DisplayName</key>
 					<string>Disable Remote Management</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/82-DisableRemoteManagement.zsh</string>
 					<key>Subtitle</key>
@@ -523,7 +523,7 @@
 					<key>DisplayName</key>
 					<string>Disable Remote Management</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/82-DisableRemoteManagement.zsh</string>
 					<key>Subtitle</key>
@@ -533,7 +533,7 @@
 					<key>DisplayName</key>
 					<string>Ensure an Administrator account cannot login to another user's active and locked session</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/94-AdministratorAccountCannotLoginToAnotherUsersActiveAndLockedSession.zsh</string>
 					<key>Subtitle</key>
@@ -543,7 +543,7 @@
 					<key>DisplayName</key>
 					<string>Require Administrator password to access System-Wide Preferences</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/icons/Settings.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/Settings.png</string>
 					<key>ScriptPath</key>
 					<string>https://raw.githubusercontent.com/joelkino/macOS-Onboarder/main/macOS-Onboarder/scripts/95-AdministratorPasswordToSystemWidePreferences.zsh</string>
 					<key>Subtitle</key>
