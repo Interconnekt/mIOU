@@ -185,7 +185,7 @@
 					<key>DisplayName</key>
 					<string>PPPC Utility</string>
 					<key>Icon</key>
-					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/pppcutility.png</string>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/PPPCUtility.png</string>
 					<key>Label</key>
 					<string>jamfpppcutility</string>
 					<key>Subtitle</key>
