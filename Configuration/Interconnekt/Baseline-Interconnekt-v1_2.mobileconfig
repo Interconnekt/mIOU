@@ -44,6 +44,8 @@
 				<dict>
 					<key>DisplayName</key>
 					<string>Microsoft 365 Copilot</string>
+					<key>Icon</key>
+					<string>https://raw.githubusercontent.com/Interconnekt/mIOU/main/Resources/icons/m365copilot.png</string>
 					<key>Label</key>
 					<string>microsoft365copilot</string>
 					<key>Subtitle</key>
@@ -576,7 +578,7 @@
 	<key>PayloadDisplayName</key>
 	<string>macOS Intune Onboarding Utility - Baseline Configuration</string>
 	<key>PayloadIdentifier</key>
-	<string>Baseline-Interconnekt-v3.3</string>
+	<string>Baseline-Interconnekt-v4</string>
 	<key>PayloadOrganization</key>
 	<string>Interconnekt</string>
 	<key>PayloadType</key>
