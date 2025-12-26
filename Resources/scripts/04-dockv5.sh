@@ -228,7 +228,7 @@ wait_for_apps_installation() {
 # Check if apps are installed
 if [[ "$waitForApps" == true ]]; then
     echo "$(date) | Waiting for apps to be installed..."
-    wait_for_apps_installation 900      # Wait 900 seconds for apps to be installed
+    wait_for_apps_installation 450      # Wait 900 seconds for apps to be installed
 fi
 
 # if useDockUtil is true, use dockutil to configure the dock
