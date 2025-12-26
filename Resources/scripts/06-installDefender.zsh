@@ -25,7 +25,7 @@ logandmetadir="/Library/Application Support/Microsoft/IntuneScripts/installDefen
 processpath="/Applications/Microsoft Defender.app/Contents/MacOS/Microsoft Defender.app/Contents/MacOS/Microsoft Defender"    # The process name of the App we are installing
 terminateprocess="true"                                                    # Do we want to terminate the running process? If false we'll wait until its not running
 autoUpdate="true"                                                         # If true, application updates itself and we should not attempt to update
-secondsToWaitForOtherApps=3600                                                               # How long should we wait for other apps to install before we continue?
+secondsToWaitForOtherApps=720                                                               # How long should we wait for other apps to install before we continue?
 
 waitForTheseApps=(  "/Applications/Microsoft Edge.app"
                     "/Applications/Microsoft Outlook.app"
